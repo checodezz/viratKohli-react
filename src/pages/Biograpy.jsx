@@ -27,6 +27,7 @@ const Biography = () => {
           </p>
         </article>
       </main>
+      <br/>
       <Footer />
     </>
   );
